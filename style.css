@@ -52,7 +52,7 @@ body .linktree__container .linktree__wrap .linktree__header {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  color: whitesmoke;
+  color: white;
 }
 body .linktree__container .linktree__wrap .linktree__header .linktree__merchant--logo {
   width: 70px;
